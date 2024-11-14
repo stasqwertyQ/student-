@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Іван",
+    "surname": "Іваненко",
+    "age": 20,
+    "course": "2",
+    "faculty": "Факультет комп'ютерних наук",
+    "subjects": [
+      "Математика",
+      "Програмування",
+      "Англійська мова"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "3ER",
+    "age": "23",
+    "course": "21212s",
+    "faculty": "dsdfcsfc",
+    "subjects": [
+      "32"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "3ER",
+    "age": "12",
+    "course": "21212s",
+    "faculty": "21",
+    "subjects": [
+      "RE"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "dw",
+    "age": "12",
+    "course": "21212sd",
+    "faculty": "dwd",
+    "subjects": [
+      "dwd"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "dw",
+    "age": "12",
+    "course": "21212sd",
+    "faculty": "dwd",
+    "subjects": [
+      "dwd"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "dw",
+    "age": "12",
+    "course": "21212sd",
+    "faculty": "dwd",
+    "subjects": [
+      "dwd"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "dw",
+    "age": "12",
+    "course": "21212sd",
+    "faculty": "dwd",
+    "subjects": [
+      "dwd"
+    ]
+  },
+  {
+    "name": "stas",
+    "surname": "dw",
+    "age": "12",
+    "course": "21212sd",
+    "faculty": "dwd",
+    "subjects": [
+      "dwd"
+    ]
+  },
+  {
+    "name": "2",
+    "surname": "32",
+    "age": "32",
+    "course": "32",
+    "faculty": "32",
+    "subjects": [
+      "32"
+    ]
+  },
+  {
+    "name": "21",
+    "surname": "21",
+    "age": "21",
+    "course": "21",
+    "faculty": "21",
+    "subjects": [
+      "21"
+    ]
+  },
+  {
+    "name": "rtrt",
+    "surname": "3ER",
+    "age": "32",
+    "course": "323",
+    "faculty": "tr",
+    "subjects": [
+      "tt"
+    ]
+  }
+]
